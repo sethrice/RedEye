@@ -35,7 +35,7 @@
 		"release:windows": "yarn moon run server:release-windows cs-parser:release-windows"
 	},
 	"dependencies": {
-		"@apollo/server": "^4.7.0",
+		"@apollo/server": "^4.7.4",
 		"@blueprintjs/core": "^4.17.0",
 		"@blueprintjs/datetime": "^4.4.19",
 		"@blueprintjs/datetime2": "^0.9.17",
